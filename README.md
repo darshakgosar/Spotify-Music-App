@@ -3,10 +3,9 @@ git init# Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Dependencies
-"bootstrap": "^5.2.0"
-"react": "^18.2.0"
-"react-bootstrap": "^2.5.0"
-"spotify-web-api-js": "^1.5.2"
+"bootstrap": "^5.2.0" // npm i bootstrap
+"react-bootstrap": "^2.5.0" // npm i react-bootstrap
+"spotify-web-api-js": "^1.5.2" // npm i spotify-web-api-js
 
 
 ## Available Scripts
