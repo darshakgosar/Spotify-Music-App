@@ -1,0 +1,25 @@
+.sidebar{
+    height:93vh;
+    
+    color: white;    
+    padding-left: 20px;
+    padding-right: 10px;
+    min-width:230px;
+    height:100vh;
+    text-align: left;
+    position:fixed;
+    
+    /* background-color: #040404; */
+    /* background: linear-gradient(108.18deg, #201606 2.46%, #000000 99.84%); */
+}
+.sidebar__logo{
+   margin-right: auto;
+   height: 70px;
+   padding: 10px;
+}
+
+.sidebar_avatar{
+    height: 50px;
+    position: absolute;
+    bottom: 14px;
+}

@@ -1,0 +1,6 @@
+.player__body{
+    display:flex;
+}
+.player{
+    background: linear-gradient(108.18deg, #201606 2.46%, #000000 99.84%);
+}
